@@ -1,2 +1,2 @@
 # zepto-es6
-Using ES6 rewrite zepto. Js
+Using ES6 rewrite zepto.js
